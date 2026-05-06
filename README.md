@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Muhammad Noman! 👋
 
-<!--
-**muhammadnoman-turkiye/muhammadnoman-turkiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student who’s just starting to dive into tech, development, and AI. I’m excited to learn and build things along the way!
 
-Here are some ideas to get you started:
+## A little about me:
+- 💻 I’m currently learning how to code and work on small projects
+- 🤖 Interested in exploring AI and machine learning
+- 🚀 I want to keep improving and take on new challenges
+- 🌱 Always eager to learn new things and grow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on:
+- 🖥️ Web development (HTML, CSS, JavaScript)
+- 🔧 Exploring backend development (Python, Node.js)
+- 🤖 Diving into AI and machine learning
+
+Feel free to connect or check out my projects. I'm always open to learning from others and collaborating!
